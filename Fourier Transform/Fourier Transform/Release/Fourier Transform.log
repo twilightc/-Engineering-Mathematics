@@ -1,0 +1,19 @@
+﻿  FT.cpp
+FT.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(196): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(222): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(316): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(343): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(418): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+FT.cpp(433): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MyForm.cpp
+d:\李宗峻\工程數學\p3\team28_p3_ver3\fourier transform\fourier transform\MyForm.h(313): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\李宗峻\工程數學\p3\team28_p3_ver3\fourier transform\fourier transform\MyForm.h(331): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\李宗峻\工程數學\p3\team28_p3_ver3\fourier transform\fourier transform\MyForm.h(368): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\李宗峻\工程數學\p3\team28_p3_ver3\fourier transform\fourier transform\MyForm.h(437): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\李宗峻\工程數學\p3\team28_p3_ver3\fourier transform\fourier transform\MyForm.h(473): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\李宗峻\工程數學\p3\team28_p3_ver3\fourier transform\fourier transform\MyForm.h(510): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\李宗峻\工程數學\p3\team28_p3_ver3\fourier transform\fourier transform\MyForm.h(545): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Fourier Transform.vcxproj -> D:\李宗峻\工程數學\p3\Team28_p3_ver3\Fourier Transform\Release\FourierTransform.exe

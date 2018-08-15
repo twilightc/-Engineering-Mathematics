@@ -1,0 +1,8 @@
+﻿  FT.cpp
+FT.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(202): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(228): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+FT.cpp(308): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+FT.cpp(323): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Fourier Transform.vcxproj -> D:\李宗峻\工程數學\p3\Fourier Transform\Fourier Transform\Fourier Transform\Release\FourierTransform.exe
