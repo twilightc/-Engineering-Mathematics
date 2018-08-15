@@ -1,0 +1,6 @@
+﻿  Conjugrate.cpp
+Conjugrate.cpp(46): warning C4018: '<': signed/unsigned mismatch
+Conjugrate.cpp(144): warning C4018: '<': signed/unsigned mismatch
+Conjugrate.cpp(203): warning C4018: '<': signed/unsigned mismatch
+Conjugrate.cpp(204): warning C4018: '<': signed/unsigned mismatch
+  Optimization.vcxproj -> D:\李宗峻\工程數學\p2\team28 p2_ver3\team28 p2_ver3\Optimization\Optimization\Release\Optimization.exe

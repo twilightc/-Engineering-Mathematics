@@ -1,0 +1,18 @@
+﻿已經開始建置於 2016/5/6 下午 02:13:52。
+     1>節點 2 (Build 目標) 上的專案 "D:\2016ME\0503-2\Optimization\Optimization\Optimization\Optimization.vcxproj"。
+     1>ClCompile:
+         H:\VS2015\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"D:\2016ME\0503-2\Optimization\Optimization\Release\HKOGLPanel.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp ShaderManager.cpp
+         MyForm.cpp
+         ShaderManager.cpp
+         正在產生程式碼...
+       Link:
+         H:\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2016ME\0503-2\Optimization\Optimization\Debug\Optimization.exe" /INCREMENTAL /NOLOGO glew32.lib OPENGL32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\Optimization.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\2016ME\0503-2\Optimization\Optimization\Debug\Optimization.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\LoadShaders.obj
+         Debug\MyForm.obj
+         Debug\ShaderManager.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         Optimization.vcxproj -> D:\2016ME\0503-2\Optimization\Optimization\Debug\Optimization.exe
+     1>專案 "D:\2016ME\0503-2\Optimization\Optimization\Optimization\Optimization.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.14
